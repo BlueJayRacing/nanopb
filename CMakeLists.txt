@@ -1,6 +1,6 @@
 idf_component_register(SRCS
-                    "pb_common.c"
-                    "pb_encode.c"
-                    "pb_decode.c"
+                    "src/pb_common.c"
+                    "src/pb_encode.c"
+                    "src/pb_decode.c"
                     INCLUDE_DIRS "include"
                     )
