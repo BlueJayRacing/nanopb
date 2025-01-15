@@ -1,0 +1,19 @@
+{
+    "name": "nanopb",
+    "version": "1.0.0",
+    "description": "protobuf buffers for microcontrollers (forked from main nanopb)",
+    "authors":
+    [
+      {
+        "name": "Travis Chen",
+        "email": "travis.yu.chen@gmail.com",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "dependencies": {
+      "SPI": "~1.0"
+    },
+    "frameworks": "*",
+    "platforms": "*"
+  }
